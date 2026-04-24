@@ -47,15 +47,15 @@ Note: It's recommended to change the default SSH port for security reasons.
 
 **For Installation in *Ubuntu/Deepin* Run**
 ```
-wget -O ubuntu.sh https://raw.githubusercontent.com/gleyon/aapanel/main/ubuntu.sh && chmod 755 ubuntu.sh && sudo ./ubuntu.sh
+wget -O ubuntu.sh https://raw.githubusercontent.com/itzprasant/aapanel/main/ubuntu.sh && chmod 755 ubuntu.sh && sudo ./ubuntu.sh
 ```
 
 **For Installation in *Centos/AlmaLinux* Run**
 ```
-wget -O alma.sh https://raw.githubusercontent.com/gleyon/aapanel/main/redhat.sh && chmod 755 redhat.sh && sudo ./redhat.sh
+wget -O alma.sh https://raw.githubusercontent.com/itzprasant/aapanel/main/redhat.sh && chmod 755 redhat.sh && sudo ./redhat.sh
 ```
 
-[Click Here For All Management Command](https://github.com/gleyon/aapanel/blob/main/manage.md).
+[Click Here For All Management Command](https://github.com/itzprasant/aapanel/blob/main/manage.md).
 
 For Any Developement Regarding Queries Contact Us - info@gleyon.com
 
