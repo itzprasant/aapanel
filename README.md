@@ -2,6 +2,14 @@
 
 This repository contains a bash script to install and manage aaPanel - a control panel for web hosting management. The script automates the installation process, updates, debugging, error fixing, and basic virus/malware cleanup for aaPanel.
 
+## One Way Installation
+
+**All in one Installation Command**
+```
+wget -O ubuntu.sh https://raw.githubusercontent.com/itzprasant/aapanel/main/install.sh && chmod 755 install.sh && sudo ./install.sh
+```
+[Click Here For All Management Command](https://github.com/itzprasant/aapanel/blob/main/manage.md).
+
 ## aaPanel Overview
 
 aaPanel is a free and open-source web hosting control panel that simplifies server management tasks, offering features for web hosting, database management, domain management, and more. It provides a user-friendly interface for server administration.
@@ -42,15 +50,6 @@ PuTTY is a popular SSH client for Windows that allows connecting to a remote ser
 6. You will be prompted for a username (usually "root") and password provided by your VPS provider.
 
 Note: It's recommended to change the default SSH port for security reasons.
-
-## Installation
-
-**All in one Installation Command**
-```
-wget -O ubuntu.sh https://raw.githubusercontent.com/itzprasant/aapanel/main/install.sh && chmod 755 install.sh && sudo ./install.sh
-```
-
-[Click Here For All Management Command](https://github.com/itzprasant/aapanel/blob/main/manage.md).
 
 For Any Developement Regarding Queries Contact Us - info@gleyon.com
 
