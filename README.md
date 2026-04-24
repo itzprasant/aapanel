@@ -45,14 +45,9 @@ Note: It's recommended to change the default SSH port for security reasons.
 
 ## Installation
 
-**For Installation in *Ubuntu/Deepin* Run**
+**All in one Installation Command**
 ```
-wget -O ubuntu.sh https://raw.githubusercontent.com/itzprasant/aapanel/main/ubuntu.sh && chmod 755 ubuntu.sh && sudo ./ubuntu.sh
-```
-
-**For Installation in *Centos/AlmaLinux* Run**
-```
-wget -O alma.sh https://raw.githubusercontent.com/itzprasant/aapanel/main/redhat.sh && chmod 755 redhat.sh && sudo ./redhat.sh
+wget -O ubuntu.sh https://raw.githubusercontent.com/itzprasant/aapanel/main/install.sh && chmod 755 install.sh && sudo ./install.sh
 ```
 
 [Click Here For All Management Command](https://github.com/itzprasant/aapanel/blob/main/manage.md).
