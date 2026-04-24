@@ -23,9 +23,9 @@ aaPanel can be installed on the following operating systems:
 
 ## Getting a VPS/Dedicated Server from Whiscloud.com
 
-[Whiscloud](https://whiscloud.com) offers VPS hosting/ Dedicated Server services at affordable prices. To purchase a VPS:
+[CLYTRIX](https://clytrix.com) offers VPS hosting/ Dedicated Server services at affordable prices. To purchase a VPS:
 
-1. Visit [Whiscloud](https://whiscloud.com) website.
+1. Visit [CLYTRIX](https://clytrix.com) website.
 2. Browse available VPS/Dedicated Server plans and select one that suits your requirements.
 3. Proceed to checkout and complete the payment process.
 4. Once payment is processed, you will receive an email with Server login details.
@@ -47,16 +47,16 @@ Note: It's recommended to change the default SSH port for security reasons.
 
 **For Installation in *Ubuntu/Deepin* Run**
 ```
-wget -O ubuntu.sh https://raw.githubusercontent.com/whiscloud/aapanel/main/ubuntu.sh && chmod 755 ubuntu.sh && sudo ./ubuntu.sh
+wget -O ubuntu.sh https://raw.githubusercontent.com/gleyon/aapanel/main/ubuntu.sh && chmod 755 ubuntu.sh && sudo ./ubuntu.sh
 ```
 
 **For Installation in *Centos/AlmaLinux* Run**
 ```
-wget -O alma.sh https://raw.githubusercontent.com/whiscloud/aapanel/main/redhat.sh && chmod 755 redhat.sh && sudo ./redhat.sh
+wget -O alma.sh https://raw.githubusercontent.com/gleyon/aapanel/main/redhat.sh && chmod 755 redhat.sh && sudo ./redhat.sh
 ```
 
-[Click Here For All Management Command](https://github.com/whiscloud/aapanel/blob/main/manage.md).
+[Click Here For All Management Command](https://github.com/gleyon/aapanel/blob/main/manage.md).
 
-For Any Developement Regarding Queries Contact Us - sales@inozix.com
+For Any Developement Regarding Queries Contact Us - info@gleyon.com
 
-Visit Our Website - https://inozix.com
+Visit Our Website - https://gleyon.com
